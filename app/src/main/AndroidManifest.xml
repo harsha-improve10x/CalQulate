@@ -13,9 +13,9 @@
         android:theme="@style/Theme.CalQulate"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
-            android:exported="true"
-            android:label="@string/app_name"
+            android:name=".SplashActivity"
+            android:exported="false"
+            android:label="@string/title_activity_main"
             android:theme="@style/Theme.CalQulate">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
